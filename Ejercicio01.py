@@ -14,3 +14,4 @@ while num < len(fseparado):
 contador=str(cont)
 print("Hay "+contador+" numeros pares gente de clase")
 print("Este ejercicio ha sido ofrecido por Kant003 con la colaboracion de DAM del norte")
+fichero.close()
