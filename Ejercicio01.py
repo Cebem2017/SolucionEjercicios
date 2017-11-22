@@ -9,7 +9,8 @@ while num < len(fseparado):
     if int(fseparado[num])%2==0:
         #print(str(fseparado[num])+"Es Par")
         cont+=1
-        
-    else:
-        #print(str(fseparado[num])+"No es Par")
     num+=1
+
+contador=str(cont)
+print("Hay "+contador+" numeros pares gente de clase")
+print("Este ejercicio ha sido ofrecido por Kant003 con la colaboracion de DAM del norte")
